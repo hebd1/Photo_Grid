@@ -1,0 +1,20 @@
+/*float - turns off gravity so photos can be blocked from left to right */
+img	{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+p {
+	font-family: Righteous;
+	font-size: 50px;
+	margin-left: 1.66%;
+	border-bottom: 3px solid grey;
+	padding-bottom: 20px;
+	margin-right: 1.66%;
+
+
+}
+
+body{
+	background-color: #bdc3c7;
+}
